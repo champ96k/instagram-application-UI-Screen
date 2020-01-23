@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+Instagram Login Screen UI
+
+![Tushar Nikam](https://i.ibb.co/DGk6z4s/Currency-Converter-final-app.jpg)
+
+
+User Profile Page
+
+![Tushar Nikam](https://i.ibb.co/grq6Qgb/insta-profile-1.jpg)
+
+
+Images 
+
+![Tushar Nikam](https://i.ibb.co/MNCBR8r/insta-profile-2.jpg)
+
+
