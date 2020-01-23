@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Instagram Login Screen UI
 
-![Tushar Nikam](https://i.ibb.co/DGk6z4s/Currency-Converter-final-app.jpg)
+![Tushar Nikam](https://i.ibb.co/7WFtwmy/Instagram.png)
 
 
 User Profile Page
